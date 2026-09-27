@@ -1,0 +1,13 @@
+{
+  "milestone": "4",
+  "product_selected": "Groww",
+  "amc": "SBI Mutual Fund",
+  "schemes": [
+    "SBI Large Cap Fund",
+    "SBI Flexicap Fund",
+    "SBI ELSS Tax Saver Fund"
+  ],
+  "corpus_source_count": 18,
+  "build_date": "2026-09-27",
+  "notes": "Curated official-source corpus; no live crawling; no performance comparison."
+}
